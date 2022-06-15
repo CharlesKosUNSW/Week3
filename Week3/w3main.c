@@ -12,9 +12,10 @@
 
 int main(void) {
 
-	datatypes();
+	//datatypes();
 	//t1();
-	
+	//t4();
+	t9();
 
 	return 0;
 }

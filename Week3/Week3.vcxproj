@@ -129,6 +129,8 @@
   <ItemGroup>
     <ClCompile Include="datatypes.c" />
     <ClCompile Include="t1.c" />
+    <ClCompile Include="t4.c" />
+    <ClCompile Include="t9.c" />
     <ClCompile Include="w3main.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
