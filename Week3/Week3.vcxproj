@@ -127,6 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="datatypes.c" />
     <ClCompile Include="t1.c" />
     <ClCompile Include="w3main.c" />
   </ItemGroup>

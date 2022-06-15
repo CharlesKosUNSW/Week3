@@ -12,7 +12,9 @@
 
 int main(void) {
 
-	t1();
+	datatypes();
+	//t1();
+	
 
 	return 0;
 }

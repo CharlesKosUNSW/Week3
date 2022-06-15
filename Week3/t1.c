@@ -5,6 +5,10 @@
 
 // Question: what will the output be? Will the if statement do anything different to the while loop?
 
+#ifdef _MSC_VER
+#define _CRT_SECURE_NO_WARNINGS
+#endif
+
 #include <stdio.h>
 
 void t1(void) {
@@ -31,5 +35,4 @@ void t1(void) {
 		i++;
 	}
 
-	return 0;
 }

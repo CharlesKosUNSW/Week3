@@ -21,5 +21,8 @@
     <ClCompile Include="w3main.c">
       <Filter>Resource Files</Filter>
     </ClCompile>
+    <ClCompile Include="datatypes.c">
+      <Filter>Resource Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
